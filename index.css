@@ -1418,9 +1418,11 @@
   }
   .home-header07 {
     max-width: 80%;
+    align-self: center;
   }
   .home-caption6 {
     max-width: 100%;
+    align-self: center;
   }
   .home-book2 {
     width: 100%;
