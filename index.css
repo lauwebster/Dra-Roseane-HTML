@@ -805,6 +805,7 @@
   margin-top: var(--dl-space-space-fiveunits);
   align-items: stretch;
   padding-left: var(--dl-space-space-fiveunits);
+  margin-bottom: var(--dl-space-space-fiveunits);
   flex-direction: row;
   justify-content: space-between;
 }
