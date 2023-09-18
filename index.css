@@ -1436,6 +1436,10 @@
   .home-header10 {
     width: 100%;
     height: 197px;
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: 36px;
   }
   .home-blog {
     width: 100%;
